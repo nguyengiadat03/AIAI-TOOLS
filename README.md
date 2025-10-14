@@ -1,6 +1,6 @@
 # AIAI TOOLS - AI for Business
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nguyengiadat03/AIAI-TOOLS)
 
 AIAI TOOLS is a cutting-edge, visually stunning corporate website designed to showcase advanced AI solutions for businesses. The platform serves as the primary marketing and lead-generation tool, featuring a highly dynamic and animated user interface to reflect the company's technological prowess. The project involves building a multi-page website with a modern, dark-themed aesthetic, characterized by particle animations, on-scroll effects, and interactive UI elements. The entire experience is mobile-first, ensuring flawless performance and visual fidelity across all devices.
 
@@ -104,7 +104,7 @@ This command will build the project and deploy it to your Cloudflare account. Yo
 
 Alternatively, you can deploy directly from your GitHub repository.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/nguyengiadat03/AIAI-TOOLS)
 
 ## License
 
